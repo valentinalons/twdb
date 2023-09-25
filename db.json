@@ -1,4 +1,5 @@
-[
+{
+	"posts": [
 	{
 		"name": "Octavia Henry",
 		"text": "ante dictum mi, ac mattis velit justo nec ante. Maecenas"
@@ -400,3 +401,4 @@
 		"text": "consectetuer adipiscing elit. Etiam laoreet, libero et tristique pellentesque, tellus"
 	}
 ]
+}
